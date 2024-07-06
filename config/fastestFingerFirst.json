@@ -1,0 +1,374 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who wrote the play 'Hamlet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+      "answer": "William Shakespeare",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "India", "South Korea"],
+      "answer": "Japan",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Lion"],
+      "answer": "Blue Whale",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "NaCl", "O2"],
+      "answer": "H2O",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+      "answer": "Leonardo da Vinci",
+      "difficulty": "Easy",
+      "category": "Art"
+    },
+    {
+      "question": "Which bird is often associated with delivering babies?",
+      "options": ["Penguin", "Stork", "Owl", "Eagle"],
+      "answer": "Stork",
+      "difficulty": "Easy",
+      "category": "Nature"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Yen", "Euro", "Dollar"],
+      "answer": "Yen",
+      "difficulty": "Easy",
+      "category": "Economics"
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+      "answer": "Thomas Edison",
+      "difficulty": "Easy",
+      "category": "History"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which country is famous for its tulips?",
+      "options": ["Netherlands", "Italy", "Brazil", "Australia"],
+      "answer": "Netherlands",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Mount Kilimanjaro"],
+      "answer": "Mount Everest",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which is the largest desert in the world?",
+      "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+      "answer": "Sahara Desert",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who is credited with writing the novel 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Emily Brontë", "Charles Dickens", "Charlotte Brontë"],
+      "answer": "Jane Austen",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Ge", "Au", "Ag"],
+      "answer": "Au",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which city is known as the 'Big Apple'?",
+      "options": ["Los Angeles", "New York City", "Chicago", "Boston"],
+      "answer": "New York City",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Arthur Miller", "George Bernard Shaw", "Anton Chekhov"],
+      "answer": "William Shakespeare",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "Which animal is known as the 'Ship of the Desert'?",
+      "options": ["Camel", "Horse", "Elephant", "Zebra"],
+      "answer": "Camel",
+      "difficulty": "Easy",
+      "category": "Nature"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn", "Mars", "Earth"],
+      "answer": "Jupiter",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Leonardo da Vinci", "Raphael", "Michelangelo", "Donatello"],
+      "answer": "Michelangelo",
+      "difficulty": "Easy",
+      "category": "Art"
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Pineapple"],
+      "answer": "Avocado",
+      "difficulty": "Easy",
+      "category": "Food"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Mars", "Earth", "Venus", "Mercury"],
+      "answer": "Mercury",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+      "options": ["Mark Twain", "Charles Dickens", "Jane Austen", "Herman Melville"],
+      "answer": "Mark Twain",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Heart", "Liver", "Brain", "Skin"],
+      "answer": "Skin",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Midnight Sun'?",
+      "options": ["Norway", "Canada", "Russia", "Finland"],
+      "answer": "Norway",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the tallest building in the world?",
+      "options": ["Burj Khalifa", "Shanghai Tower", "One World Trade Center", "Taipei 101"],
+      "answer": "Burj Khalifa",
+      "difficulty": "Easy",
+      "category": "Architecture"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+      "answer": "Harper Lee",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Venus", "Mercury", "Mars", "Earth"],
+      "answer": "Mercury",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which is the largest country by area?",
+      "options": ["Russia", "Canada", "United States", "China"],
+      "answer": "Russia",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the largest continent by land area?",
+      "options": ["Europe", "North America", "Asia", "Africa"],
+      "answer": "Asia",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["France", "United Kingdom", "Italy", "Germany"],
+      "answer": "France",
+      "difficulty": "Easy",
+      "category": "History"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Si", "Ag", "Sn", "Sr"],
+      "answer": "Ag",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": "Nile",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who is known as the 'Father of Computer'?",
+      "options": ["Alan Turing", "Charles Babbage", "Ada Lovelace", "Bill Gates"],
+      "answer": "Charles Babbage",
+      "difficulty": "Easy",
+      "category": "Technology"
+    },
+    {
+      "question": "Which is the largest species of big cat?",
+      "options": ["Lion", "Jaguar", "Tiger", "Leopard"],
+      "answer": "Tiger",
+      "difficulty": "Easy",
+      "category": "Nature"
+    },
+    {
+      "question": "Which country is famous for the Great Barrier Reef?",
+      "options": ["Brazil", "Australia", "Indonesia", "Philippines"],
+      "answer": "Australia",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+      "answer": "Alexander Fleming",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which is the largest waterfall in the world?",
+      "options": ["Victoria Falls", "Niagara Falls", "Angel Falls", "Iguazu Falls"],
+      "answer": "Angel Falls",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who is the author of 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
+      "answer": "J.D. Salinger",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the chemical symbol for carbon?",
+      "options": ["C", "Ca", "Co", "Cu"],
+      "answer": "C",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which is the largest bone in the human body?",
+      "options": ["Femur", "Tibia", "Humerus", "Radius"],
+      "answer": "Femur",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "What is the official language of Brazil?",
+      "options": ["Spanish", "Portuguese", "English", "French"],
+      "answer": "Portuguese",
+      "difficulty": "Easy",
+      "category": "Languages"
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "H.G. Wells"],
+      "answer": "George Orwell",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "What is the largest flower in the world?",
+      "options": ["Orchid", "Rose", "Sunflower", "Rafflesia"],
+      "answer": "Rafflesia",
+      "difficulty": "Easy",
+      "category": "Nature"
+    },
+    {
+      "question": "Which country is known as the 'Emerald Isle'?",
+      "options": ["Scotland", "Ireland", "New Zealand", "Wales"],
+      "answer": "Ireland",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who is known as the 'Queen of Soul'?",
+      "options": ["Aretha Franklin", "Whitney Houston", "Diana Ross", "Tina Turner"],
+      "answer": "Aretha Franklin",
+      "difficulty": "Easy",
+      "category": "Music"
+    },
+    {
+      "question": "What is the chemical symbol for iron?",
+      "options": ["Fe", "Ir", "In", "I"],
+      "answer": "Fe",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Which is the largest moon in the solar system?",
+      "options": ["Io", "Titan", "Ganymede", "Europa"],
+      "answer": "Ganymede",
+      "difficulty": "Easy",
+      "category": "Science"
+    },
+    {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Harper Lee"],
+      "answer": "F. Scott Fitzgerald",
+      "difficulty": "Easy",
+      "category": "Literature"
+    },
+    {
+      "question": "Which is the largest coral reef system in the world?",
+      "options": ["Great Barrier Reef", "Belize Barrier Reef", "Palancar Reef", "Tubbataha Reef"],
+      "answer": "Great Barrier Reef",
+      "difficulty": "Easy",
+      "category": "Geography"
+    },
+    {
+      "question": "Who is the current president of the United States?",
+      "options": ["Barack Obama", "Joe Biden", "Donald Trump", "George W. Bush"],
+      "answer": "Joe Biden",
+      "difficulty": "Easy",
+      "category": "Politics"
+    },
+    {
+      "question": "What is the chemical symbol for sodium?",
+      "options": ["S", "Na", "Sn", "Ni"],
+      "answer": "Na",
+      "difficulty": "Easy",
+      "category": "Science"
+    }
+  ]
+  
