@@ -23,7 +23,7 @@ export default async function handler(req, res) {
 
       res.status(201).json({ roomId });
     } catch (error) {
-      console.error(error);
+      console.error('Error creating room:', error);
       res.status(500).json({ message: 'Failed to create room' });
     }
   } else {
