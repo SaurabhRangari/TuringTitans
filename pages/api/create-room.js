@@ -5,22 +5,24 @@ export default async function handler(req, res) {
     const { playerName, questionIndexes } = req.body;
 
     try {
+      console.log('Connecting to MongoDB...');
       const client = await clientPromise;
+      console.log('Connected to MongoDB');
       const db = client.db('kbc');
       const roomsCollection = db.collection('rooms');
 
-      // Generate a random roomId (you may have your own logic for generating it)
       const roomId = Math.random().toString(36).substr(2, 5);
+      console.log(`Generated roomId: ${roomId}`);
 
-      // Store the room with creator information and provided questionIndexes
       const result = await roomsCollection.insertOne({
         roomId,
         players: [playerName],
         creator: playerName,
         gameStarted: false,
-        questionIndexes: questionIndexes, // Use provided questionIndexes
+        questionIndexes: questionIndexes,
       });
 
+      console.log('Room created:', result);
       res.status(201).json({ roomId });
     } catch (error) {
       console.error('Error creating room:', error);
