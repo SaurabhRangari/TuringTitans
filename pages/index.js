@@ -71,7 +71,7 @@ const Lobby = () => {
 
   return (
     <div>
-      <h1>Kaun Banega Crorepati Lobby</h1>
+      <h1>Kaun Banega Crorepati Lobby </h1>
       <input 
         type="text" 
         placeholder="Enter your name" 
