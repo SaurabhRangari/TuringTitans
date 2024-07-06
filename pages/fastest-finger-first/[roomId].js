@@ -12,7 +12,7 @@ const FastestFingerFirst = ({ initialQuestions, roomId, playerName }) => {
   const [answers, setAnswers] = useState([]);
   const [showResult, setShowResult] = useState(false);
   const [selectedAnswer, setSelectedAnswer] = useState(null);
-  const [allPlayersFinished, setAllPlayersFinished] = useState(false); // Track if all players have finished
+  const [allPlayersFinished, setAllPlayersFinished] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -32,13 +32,13 @@ const FastestFingerFirst = ({ initialQuestions, roomId, playerName }) => {
     const checkResults = async () => {
       const res = await fetch(`/api/check-results?roomId=${roomId}`);
       const data = await res.json();
-      setAllPlayersFinished(data.allPlayersFinished); // Update allPlayersFinished state
+      setAllPlayersFinished(data.allPlayersFinished);
       if (data.allPlayersFinished) {
         setShowResult(true);
         await saveResults();
         await fetchAndDeclareWinner();
       } else {
-        setTimeout(checkResults, 2000); // Check again after 2 seconds
+        setTimeout(checkResults, 2000);
       }
     };
 
@@ -52,7 +52,6 @@ const FastestFingerFirst = ({ initialQuestions, roomId, playerName }) => {
       setTimeLeft(10);
       setSelectedAnswer(null);
     } else {
-      // Finish the game and send the results
       setShowResult(true);
       saveResults();
     }

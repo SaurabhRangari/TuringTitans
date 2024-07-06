@@ -9,14 +9,12 @@ export default async function handler(req, res) {
       const db = client.db('kbc');
       const roomsCollection = db.collection('rooms');
 
-      // Find the room by roomId
       const room = await roomsCollection.findOne({ roomId });
 
       if (!room || !room.players || room.players.length === 0) {
         return res.status(404).json({ message: 'Room not found or no players' });
       }
 
-      // Check if all players have finished the game
       const allPlayersFinished = room.players.every(player => room.results && room.results[player]);
 
       res.status(200).json({ allPlayersFinished });
